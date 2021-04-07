@@ -1,0 +1,3 @@
+/Users/spockstan/games101/Assignment5/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/spockstan/games101/Assignment5/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/spockstan/games101/Assignment5/Code/cmake-build-debug/CMakeFiles/RayTracing.dir
