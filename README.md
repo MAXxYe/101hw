@@ -1,4 +1,4 @@
- # The implementation of Rasterization homework and Ray Tracing homework of GAMES101 course. 
+ # The implementation of Rasterization and Ray Tracing homework of GAMES101 course. 
 homework|topic|
 --|:--:
 Assignment1| Rotation and Projection
