@@ -1,1 +1,1 @@
-# GAMES101光栅化与光线追踪部分作业的实现
+ # *The implementation of Rasterization homework and Ray Tracing homework of GAMES101 course. *
