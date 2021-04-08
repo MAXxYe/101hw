@@ -6,3 +6,4 @@ Assignment2|Triangles and Z-buffering
 Assignment3|Pipeline and Shading
 Assignment5|Ray Triangle Intersect
 Assignment6|Ray-Bounding Volume and BVH search
+Assignment7|Path Tracing
